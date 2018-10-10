@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"io"
-	"log"
 	"os"
 	"os/exec"
 )
@@ -61,15 +60,7 @@ func main() {
 		stderr, errStderr = copyAndCapture(os.Stderr, stderrIn)
 	}()
 
-	err := cmd.Wait()
-	if err != nil {
-		log.Fatalf("cmd.Run() failed with %s\n", err.Error())
-		return
-	}
-	if errStdout != nil || errStderr != nil {
-		log.Fatalf("failed to capture stdout or stderr\n")
-		return
-	}
+	cmd.Wait()
 	ring()
 }
 
