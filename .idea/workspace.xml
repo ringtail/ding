@@ -14,10 +14,10 @@
       <file leaf-file-name="ding.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ding.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="62" column="14" lean-forward="false" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+            <state relative-caret-position="1230">
+              <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
               <folding>
-                <element signature="e#14#54#0" expanded="true" />
+                <element signature="e#580#620#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,7 +43,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="816" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -149,10 +149,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ding.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="62" column="14" lean-forward="false" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+        <state relative-caret-position="1230">
+          <caret line="82" column="9" lean-forward="false" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
           <folding>
-            <element signature="e#14#54#0" expanded="true" />
+            <element signature="e#580#620#0" expanded="true" />
           </folding>
         </state>
       </provider>
